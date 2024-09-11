@@ -10,4 +10,4 @@ Minhas redes sociais:
 <br>
 <a href=https://www.instagram.com/_luan_cwb/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a/>
 <br>
-![luan stats](https://github-readme-stats.vercel.app/api?username=yluany1_icons=true&theme=transparent)
+![luan stats](https://github-readme-stats.vercel.app/api?username=yluany1&hide=contribs,prs)
